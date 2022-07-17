@@ -1,6 +1,16 @@
 {
 	"cache_domains": [
 		{
+			"name": "CLOSERS",
+			"description": "CDN for CLOSERS",
+			"domain_files": ["CLOSERS.txt"]
+		},
+		{
+			"name": "Garena",
+			"description": "CDN for Garena",
+			"domain_files": ["Garena.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
